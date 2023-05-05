@@ -1,0 +1,1 @@
+INSERT INTO `items` (`item`, `label`, `limit`, `can_remove`, `type`, `usable`, `id`, `metadata`, `desc`) VALUES ('map', 'Map', '5', '1', 'item_standard', '0', NULL, '{}', 'nice item');
